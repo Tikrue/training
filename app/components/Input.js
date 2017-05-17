@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { AppRegistry, Text, View, TextInput, Switch } from 'react-native';
 
-
 export default class Input extends Component {
   constructor() {
     super();
